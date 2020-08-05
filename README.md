@@ -1,1 +1,1 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liufg520&count_private=true&show_icons=true&theme=monokai)](https://github.com/liufg520/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liufg520&count_private=true&show_icons=true&theme=prussian)](https://github.com/liufg520/github-readme-stats)
